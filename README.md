@@ -11,6 +11,6 @@ A tableau dashboard is also a key requirements showing all the important KPI's.
 [Marketing_data](https://docs.google.com/spreadsheets/d/1ducNnGGCZZbHSegA9Lt1-nvItQmOxVMCnL1uygN_K2I/edit?gid=193616727#gid=193616727)
 
 ## Outcomes
-
+[ER Diagram](https://github.com/alindacode/Marketflash_mini_project/blob/main/ERD_MArketflash_Alinda_Dorothy.pdf)
 
 
